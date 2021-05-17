@@ -1,0 +1,3 @@
+school=Federal University of Oye-Ekiti
+session=2018-2019
+semester=1
